@@ -1,0 +1,13 @@
+V1 refactor:
+extract methods from customer to movie and rental class.
+Now, Customer class is flexible to add more statement to support different platform:
+- txt statement, html statement ...
+
+Rental class only deals with daysRented
+
+Movie class calculate charging and renter points based on rental days.
+- if more movie types coming, we can add here.
+
+Customer --> Rental --> Movie
+
+
