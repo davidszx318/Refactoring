@@ -1,0 +1,6 @@
+This is a simple program for a movie rental store.
+The program has the following function:
+1. calculate the sum of money spent of each customer and print out the orders.
+2. calculate the cost of rental based on Movie type and rental period.
+    Current Movie type: normal/ kids/ new released
+3. reward points for customers. Points earned are different based on if the movie is new released.
