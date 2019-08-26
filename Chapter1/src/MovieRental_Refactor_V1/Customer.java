@@ -1,4 +1,4 @@
-package MovieRental_Refactor;
+package MovieRental_Refactor_V1;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -58,8 +58,6 @@ public class Customer {
 
         return result;
     }
-
-
 
     private int getFrequentRenterPoints () {
         int frequentRenterPoints = 0;
